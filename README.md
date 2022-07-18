@@ -6,4 +6,6 @@ https://github.com/Wafaa-Almadhoun/Servo_motor_with_PCA9685_module_arduino/blob/
 
 ## task 2
 
+https://github.com/Wafaa-Almadhoun/Stepper-motor-using-Arduino-UNO-R3-
+
 ## task 3 
